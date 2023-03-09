@@ -1,16 +1,13 @@
-### Hi there 👋
+¡Hola! 👋🏼 Bienvenido/a a mi perfil de Github. 👨🏻‍💻
 
-<!--
-**DylanG98/DylanG98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Dylan, un Data Analyst 📊 con una fuerte pasión por el análisis de datos y la visualización. Me gusta trabajar con conjuntos de datos grandes y complejos para obtener información valiosa y tomar decisiones informadas. Tengo experiencia en en el uso de herramientas BI, lider de proyecto con metodología de trabajo agil y scrum.
 
-Here are some ideas to get you started:
+Este repositorio contiene algunos de mis proyectos personales que he desarrollado en mi tiempo libre para mejorar mis habilidades y probar nuevas técnicas de análisis de datos. Siéntete libre de explorar y clonar cualquiera de ellos para su uso y mejora. 🔍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En el siguiente apartado, encontrarás un resumen de mis habilidades técnicas: 🚀
+
+SQL, Python, Excel, Power BI, Google Analytcis
+
+Si te interesa colaborar en alguno de mis proyectos o simplemente quieres conversar sobre el análisis de datos, no dudes en contactarme. Puedes encontrarme en https://www.linkedin.com/in/dylanguzman98/ o a mi mail dylan.guzman98@gmail.com 📨🤝
+
+¡Gracias por visitar mi perfil! 🙌🏼
