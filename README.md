@@ -1,6 +1,6 @@
 ¡Hola! 👋🏼 Bienvenido/a a mi perfil de Github. 👨🏻‍💻
 
-Soy Dylan, un Data Analyst 📊 con una fuerte pasión por el análisis de datos y la visualización. Me gusta trabajar con conjuntos de datos grandes y complejos para obtener información valiosa y tomar decisiones informadas. Tengo experiencia en en el uso de herramientas BI, lider de proyecto con metodología de trabajo agil y scrum.
+Soy Dylan, un Data Analyst 📊 con una fuerte pasión por el análisis de datos y la visualización. Me gusta trabajar con conjuntos de datos grandes y complejos para obtener información valiosa y tomar decisiones informadas. Tengo experiencia en en el uso de herramientas BI, utilización/creación de APIs, liderazgo de proyecto con metodología de trabajo agil y scrum.
 
 Este repositorio contiene algunos de mis proyectos personales que he desarrollado en mi tiempo libre para mejorar mis habilidades y probar nuevas técnicas de análisis de datos. Siéntete libre de explorar y clonar cualquiera de ellos para su uso y mejora. 🔍💻
 
